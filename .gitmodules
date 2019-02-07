@@ -1,0 +1,3 @@
+[submodule "src/lib/cpr"]
+	path = src/lib/cpr
+	url = https://github.com/QiMata/cpr.git
